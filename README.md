@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=EDEAE0&center=true&vCenter=true&width=780&lines=Microbiologist+by+degree%2C+builder+by+breaking+and+building+things.;Bioenergy+%E2%80%A2+Biotechnology+%E2%80%A2+Computational+Microbiology;Turning+waste+into+energy+%E2%80%94+biogas+%C3%97+computational+engineering." alt="Turning waste into energy — biogas × computational engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=EDEAE0&center=true&vCenter=true&width=780&lines= Microbiologist+by+degree%2C+builder+by+breaking+and+building+things.;Bioenergy+%E2%80%A2+Biotechnology+%E2%80%A2+Computational+Microbiology;Turning+waste+into+energy+%E2%80%94+biogas+%C3%97+computational+engineering." alt="Turning waste into energy — biogas × computational engineering" />
 
 ### Timileyin Olufisoye Emmanuel
 
